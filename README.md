@@ -1,6 +1,6 @@
 **Title of the Project** : WebForm using JSONPowerDB
 
-**Description** : This project has been beuilt on Netbeans using a form source taken from w3schools and resources provided by Login2Xplore.
+**Description** : This project has been built on Netbeans using a form source taken from w3schools and resources provided by Login2Xplore.
 
 **Benefits of using JsonPowerDB** : 
 
