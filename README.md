@@ -21,5 +21,6 @@ and, many other features...
 **Release History** : 
 
 => 0.1.0: The first proper release
+
 => 0.0.1: Work in progress
 
